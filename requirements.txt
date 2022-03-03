@@ -114,7 +114,6 @@ pyOpenSSL==19.0.0
 pyparsing==3.0.7
 pyrsistent==0.18.1
 pyserial==3.4
-python-apt==2.0.0+ubuntu0.20.4.6
 python-dateutil==2.8.2
 python-debian===0.1.36ubuntu1
 python-Levenshtein==0.12.2
