@@ -1,0 +1,109 @@
+,region,catagory,quantity
+0,South East England,meat & fish,318738530.0
+1,South East England,fruits & vegetables,304830579.0
+2,South East England,dairy,289805366.0
+3,South East England,clothing,275288794.0
+4,Wales,meat & fish,266881979.0
+5,Wales,fruits & vegetables,254580402.0
+6,Scotland,meat & fish,251079194.0
+7,Wales,dairy,242420654.0
+8,Scotland,fruits & vegetables,239891519.0
+9,East Midlands,meat & fish,232998117.0
+10,Wales,clothing,230266629.0
+11,Scotland,dairy,228121642.0
+12,East Midlands,fruits & vegetables,222803604.0
+13,Scotland,clothing,217278898.0
+14,East Midlands,dairy,211564558.0
+15,South East England,bakery,202743735.0
+16,South East England,gaming,202554409.0
+17,East Midlands,clothing,201263199.0
+18,London,meat & fish,197018552.0
+19,London,fruits & vegetables,188339020.0
+20,East of England,meat & fish,187356535.0
+21,London,dairy,179253966.0
+22,East of England,fruits & vegetables,178981436.0
+23,London,clothing,170364166.0
+24,East of England,dairy,170216285.0
+25,Wales,bakery,169680947.0
+26,Wales,gaming,169624106.0
+27,East of England,clothing,161834826.0
+28,Scotland,bakery,159664732.0
+29,Scotland,gaming,159417508.0
+30,West Midlands,meat & fish,153412484.0
+31,East Midlands,bakery,148387202.0
+32,East Midlands,gaming,148145988.0
+33,West Midlands,fruits & vegetables,146419657.0
+34,West Midlands,dairy,139769333.0
+35,North West England,meat & fish,132620958.0
+36,West Midlands,clothing,132390473.0
+37,North West England,fruits & vegetables,127023201.0
+38,London,bakery,125773699.0
+39,London,gaming,125552308.0
+40,North West England,dairy,120653055.0
+41,East of England,gaming,119276735.0
+42,East of England,bakery,119266501.0
+43,North West England,clothing,114662993.0
+44,South West England,meat & fish,110060928.0
+45,Yorkshire and the Humber,meat & fish,106200290.0
+46,South West England,fruits & vegetables,105304030.0
+47,South East England,appliances,101454811.0
+48,Yorkshire and the Humber,fruits & vegetables,100958923.0
+49,South West England,dairy,100502888.0
+50,West Midlands,gaming,97691192.0
+51,West Midlands,bakery,97280329.0
+52,Yorkshire and the Humber,dairy,96250602.0
+53,South West England,clothing,95213487.0
+54,Yorkshire and the Humber,clothing,91294915.0
+55,South East England,computing,87040962.0
+56,Wales,appliances,84920843.0
+57,North West England,gaming,84712095.0
+58,North West England,bakery,84527579.0
+59,Northern Ireland,meat & fish,80920679.0
+60,Scotland,appliances,79732589.0
+61,Northern Ireland,fruits & vegetables,77264922.0
+62,East Midlands,appliances,74097437.0
+63,Northern Ireland,dairy,73546443.0
+64,Wales,computing,72553132.0
+65,South West England,bakery,70248621.0
+66,South West England,gaming,70110135.0
+67,Northern Ireland,clothing,70020173.0
+68,Scotland,computing,68264921.0
+69,Yorkshire and the Humber,gaming,67429300.0
+70,Yorkshire and the Humber,bakery,67353399.0
+71,East Midlands,computing,63526858.0
+72,London,appliances,62725743.0
+73,North East England,meat & fish,61480561.0
+74,East of England,appliances,59630887.0
+75,North East England,fruits & vegetables,58732849.0
+76,North East England,dairy,55891482.0
+77,London,computing,53634278.0
+78,North East England,clothing,53181370.0
+79,Northern Ireland,gaming,51590587.0
+80,Northern Ireland,bakery,51381939.0
+81,East of England,computing,51022550.0
+82,West Midlands,appliances,48779920.0
+83,North West England,appliances,42276172.0
+84,West Midlands,computing,41830057.0
+85,North East England,bakery,39148563.0
+86,North East England,gaming,39102404.0
+87,North West England,computing,36199707.0
+88,South West England,appliances,35156403.0
+89,Yorkshire and the Humber,appliances,33689411.0
+90,South West England,computing,30083785.0
+91,Yorkshire and the Humber,computing,28885294.0
+92,Northern Ireland,appliances,25749711.0
+93,Northern Ireland,computing,22118407.0
+94,North East England,appliances,19514832.0
+95,North East England,computing,16693398.0
+96,South East England,fruits & vegetable,14504529.0
+97,Wales,fruits & vegetable,12139183.0
+98,Scotland,fruits & vegetable,11356066.0
+99,East Midlands,fruits & vegetable,10586582.0
+100,London,fruits & vegetable,8973756.0
+101,East of England,fruits & vegetable,8552249.0
+102,West Midlands,fruits & vegetable,6899958.0
+103,North West England,fruits & vegetable,6038260.0
+104,South West England,fruits & vegetable,5021163.0
+105,Yorkshire and the Humber,fruits & vegetable,4865151.0
+106,Northern Ireland,fruits & vegetable,3656144.0
+107,North East England,fruits & vegetable,2763835.0
