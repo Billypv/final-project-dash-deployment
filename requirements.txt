@@ -127,7 +127,6 @@ service-identity==18.1.0
 simplejson==3.16.0
 six==1.16.0
 sniffio==1.2.0
-sos==4.1
 ssh-import-id==5.10
 stack-data==0.1.4
 systemd-python==234
