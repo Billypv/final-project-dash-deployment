@@ -159,3 +159,4 @@ websocket-client==1.2.3
 Werkzeug==2.0.2
 zipp==3.7.0
 zope.interface==4.7.1
+cloud-init==21.3
