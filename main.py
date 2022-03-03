@@ -190,5 +190,5 @@ def plot_branch_success_by_region(value):
 
 
                 
-app.run_server(debug=True)
+app.run_server(debug=False)
 
