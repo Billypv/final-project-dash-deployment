@@ -4,7 +4,6 @@ from dash.dependencies import Input, Output
 from matplotlib.pyplot import figure, xlabel
 import pandas as pd
 import plotly.express as px
-from asyncio.base_events import Server
 
 
                 
@@ -189,5 +188,5 @@ def plot_branch_success_by_region(value):
 
 
                 
-app.run_server(debug=True)
+app.run_server(debug=False)
 
