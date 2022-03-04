@@ -1,3 +1,2 @@
-web:gunicorn 
-app:server
-heroku ps:scale web=1
+web:gunicorn app:server
+heroku config:set WEB_CONCURRENCY=3
