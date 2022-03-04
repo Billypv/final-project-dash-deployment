@@ -187,6 +187,6 @@ def plot_branch_success_by_region(value):
 
 
 
-                
-app.run_server(debug=False)
+if __name__ == '__main__':            
+    app.run_server(debug=False)
 
